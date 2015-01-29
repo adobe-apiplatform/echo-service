@@ -1,8 +1,6 @@
 echo-service
 ============
 
-micro-service-container
-=======================
 A Java micro-service that implements an echo service.
 
 ### Building
