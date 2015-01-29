@@ -11,6 +11,10 @@ Requirements:
 
 `mvn clean install`
 
+### Continuous integration
+
+[![Build Status](http://api-ci-stg.corp.adobe.com/jenkins/buildStatus/icon?job=Echo-service)](http://api-ci-stg.corp.adobe.com/jenkins/view/Micro-services/job/Echo-service/)
+
 ### Running the service
 
 The Maven build will then generate a single executable JAR file which will contain the micro-service code and the required libraries.
