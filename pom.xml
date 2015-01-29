@@ -37,7 +37,7 @@
     <name>API Platform Echo Service</name>
 
     <properties>
-        <git.repo>git@git.corp.adobe.com:adobe-apis/echo-service.git</git.repo>
+        <git.repo>git@git.corp.adobe.com:ccristia/echo-service.git</git.repo>
     </properties>
 
     <scm>
