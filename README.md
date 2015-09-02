@@ -1,7 +1,7 @@
 echo-service
 ============
 
-A Java micro-service that implements an echo service.
+A Java [micro-service](https://git.corp.adobe.com/adobe-apis/micro-service-container) that implements an echo service.
 
 ### Building
 
