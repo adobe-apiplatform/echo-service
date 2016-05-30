@@ -1,7 +1,7 @@
 echo-service
 ============
 
-A Java [micro-service](https://git.corp.adobe.com/adobe-apis/micro-service-container) that implements an echo service.
+A Java [micro-service](https://github.com/adobe-apiplatform/micro-service-container) that implements an echo service.
 
 ### Building
 
@@ -13,7 +13,6 @@ Requirements:
 
 ### Continuous integration
 
-[![Build Status](http://api-ci-stg.corp.adobe.com/jenkins/buildStatus/icon?job=Echo-service)](http://api-ci-stg.corp.adobe.com/jenkins/view/Micro-services/job/Echo-service/)
 
 ### Running the service
 
